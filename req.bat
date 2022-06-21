@@ -1,0 +1,1 @@
+pip install requests grequests httpx aiohttp
